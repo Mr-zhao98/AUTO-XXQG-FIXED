@@ -4,4 +4,4 @@
 # 每天61分，支持多账户
 # 支持微信公众号推送
 # 基于autox.js v6  打包
-# 下载地址： https://wwi.lanzoup.com/ihUXD0blqvqb
+# 下载地址：https://wwi.lanzoup.com/iVR9S0cnywob 
