@@ -5,4 +5,4 @@
 # 支持微信公众号推送
 # 基于autox.js v6  打包
 # 助手V_1.0.3下载地址：https://wwx.lanzoup.com/iexzi0d5n86b 
-https://github.com/Mr-zhao98/AUTO-XXQG-FIXED.wiki.git
+![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
