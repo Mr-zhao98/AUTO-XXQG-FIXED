@@ -4,5 +4,6 @@
 # 每天61分，支持多账户
 # 支持微信公众号推送
 # 基于autox.js v6  打包
-# 助手V_1.0.3下载地址：https://wwx.lanzoup.com/iexzi0d5n86b 
+# 强国助手_V1.0.4 已更新 下载 
+# https://wwi.lanzoup.com/i2dMs0dyq5yd
 
