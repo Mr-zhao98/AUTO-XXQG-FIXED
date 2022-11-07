@@ -6,4 +6,4 @@
 # 基于autox.js v6  打包
 # 强国助手_V1.0.4 已更新 下载 
 # https://wwi.lanzoup.com/i2dMs0dyq5yd
-
+# 提供学习强国对应版本，去强制更新，去滑块验证，仅在Q群提供下载
